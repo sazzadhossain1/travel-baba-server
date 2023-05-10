@@ -1,18 +1,27 @@
 [
   {
     "id": 1,
-    "name": "Sheraton"
+    "name": "Cox's Bazar",
+    "img": "https://1.bp.blogspot.com/-DkdqhZA7p6U/Wj6qydwQ6oI/AAAAAAAAAjU/lYcKl_8lFlAYOuIum_EFQ_SZzVlC6GyugCLcBGAs/s640/coxbazar-sea-beach-beautiful-bangladesh.JPG"
   },
   {
     "id": 2,
-    "name": "Sonargoan"
+    "name": "Sundarbans",
+    "img": "http://www.sundarbantours.com/wp-content/uploads/2013/03/Royal-Bengal-Tiger-Sundarban-Bangladesh1.jpg"
   },
   {
     "id": 3,
-    "name": "Blue Garden"
+    "name": "Bandarban",
+    "img": "https://i.pinimg.com/564x/15/76/0c/15760c78377cf4de5e19d1ae211f691f.jpg"
   },
   {
     "id": 4,
-    "name": "Radiation blu hotel"
+    "name": "SREEMANGAL",
+    "img": "https://chokkor.com/wp-content/uploads/2019/02/Sreemangal-2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "SREEMANGAL",
+    "img": "https://chokkor.com/wp-content/uploads/2019/02/Sreemangal-2.jpg"
   }
 ]
